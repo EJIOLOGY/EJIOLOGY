@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EJIOLOGY
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning Javascript and JSON
 - 💞️ I’m looking to collaborate on with the community
 - 📫 How to reach me gbuzueejiketh@gmail.com
 
